@@ -39,7 +39,7 @@
                             <i class="uil uil-file-alt nav_icon"></i> Skill
                         </a>
                     </li>
-                    
+
                     <li class="nav_item">
                         <a href="#services" class="nav_link">
                             <i class="uil uil-scenery nav_icon"></i> Service
@@ -273,8 +273,8 @@
                     </div>
                 </div>
                 <div>
-                     <!--==================== SKILLS 3 ====================-->
-                     <div class="skills_content skills_close">
+                    <!--==================== SKILLS 3 ====================-->
+                    <div class="skills_content skills_close">
                         <div class="skills_header">
                             <i class="uil uil-swatchbook skills_icon"></i>
                             <div>
@@ -322,11 +322,196 @@
         <!--==================== QUALIFICATION ====================-->
         <section class="qualification section">
             <h2 class="section_title">Qualification</h2>
+            <span class="section_subtitle">My Personal Journey</span>
+            <div class="qualification_container container">
+                <div class="qualification_tabs">
+                    <div class="qualification_button button--flex qualification_active" data-target="#education">
+                        <i class="uil uil-graduation-cap qualification_icon"></i>
+                        Education
+                    </div>
+                    <div class="qualification_button button--flex" data-target="#work">
+                        <i class="uil uil-briefcase-alt qualification_icon"></i>
+                        Work
+                    </div>
+                </div>
+                <div class="qualification_sections">
+                    <!--==================== QUALIFICATION CONTENT 1 ====================-->
+                    <div class="qualification_content qualification_active" data-content id="education">
+                        <!--==================== QUALIFICATION 1 ====================-->
+                        <div class="qualification_data">
+                            <div>
+                                <h3 class="qualification_title">TK KEMALA BHAYANGKARI</h3>
+                                <span class="qualification_subtitle">Sumbawa Besar - NTB</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    2007 - 2008
+                                </div>
+                            </div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <span class="qualification_line"></span>
+                            </div>
+                        </div>
+                        <!--==================== QUALIFICATION 2 ====================-->
+                        <div class="qualification_data">
+                            <div></div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <span class="qualification_line"></span>
+                            </div>
+                            <div>
+                                <h3 class="qualification_title">SDN 11 KOTA BIMA</h3>
+                                <span class="qualification_subtitle">Kota Bima - NTB</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    2009 - 2014
+                                </div>
+                            </div>
+                        </div>
+                        <!--==================== QUALIFICATION 3 ====================-->
+                        <div class="qualification_data">
+                            <div>
+                                <h3 class="qualification_title">SMPN 1 SUMBAWA BESAR</h3>
+                                <span class="qualification_subtitle">Sumbawa Besar - NTB</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    2015 - 2016
+                                </div>
+                            </div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <span class="qualification_line"></span>
+                            </div>
+                        </div>
+                        <!--==================== QUALIFICATION 4 ====================-->
+                        <div class="qualification_data">
+                            <div></div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <span class="qualification_line"></span>
+                            </div>
+                            <div>
+                                <h3 class="qualification_title">SMAN 4 MATARAM</h3>
+                                <span class="qualification_subtitle">Mataram - NTB</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    2017 - 2019
+                                </div>
+                            </div>
+                        </div>
+                        <!--==================== QUALIFICATION 5 ====================-->
+                        <div class="qualification_data">
+                            <div>
+                                <h3 class="qualification_title">UNIVERSITAS BUMIGORA</h3>
+                                <span class="qualification_subtitle">Mataram - NTB</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    2019 - 2023
+                                </div>
+                            </div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <!-- <span class="qualification_line"></span> -->
+                            </div>
+                        </div>
+                    </div>
+                    <!--==================== QUALIFICATION CONTENT 2 ====================-->
+                    <div class="qualification_content" data-content id="work">
+                        <!--==================== QUALIFICATION 1 ====================-->
+                        <div class="qualification_data">
+                            <div>
+                                <h3 class="qualification_title">Software Enginner</h3>
+                                <span class="qualification_subtitle">Coming Soon</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    Coming Soon
+                                </div>
+                            </div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <span class="qualification_line"></span>
+                            </div>
+                        </div>
+                        <!--==================== QUALIFICATION 2 ====================-->
+                        <div class="qualification_data">
+                            <div></div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <span class="qualification_line"></span>
+                            </div>
+                            <div>
+                                <h3 class="qualification_title">Backend Developer Expert</h3>
+                                <span class="qualification_subtitle">Coming Soon</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    Coming Soon
+                                </div>
+                            </div>
+                        </div>
+                        <!--==================== QUALIFICATION 3 ====================-->
+                        <div class="qualification_data">
+                            <div>
+                                <h3 class="qualification_title">Fullstack Developer</h3>
+                                <span class="qualification_subtitle">Coming Soon</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    Coming Soon
+                                </div>
+                            </div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <span class="qualification_line"></span>
+                            </div>
+                        </div>
+                        <!--==================== QUALIFICATION 4 ====================-->
+                        <div class="qualification_data">
+                            <div></div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <!-- <span class="qualification_line"></span> -->
+                            </div>
+                            <div>
+                                <h3 class="qualification_title">IT Konsultan</h3>
+                                <span class="qualification_subtitle">Coming Soon</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    Coming Soon
+                                </div>
+                            </div>
+                        </div>
+                        <!--==================== QUALIFICATION 5 ====================-->
+                        <!-- <div class="qualification_data">
+                            <div>
+                                <h3 class="qualification_title">UNIVERSITAS BUMIGORA</h3>
+                                <span class="qualification_subtitle">Mataram - NTB</span>
+                                <div class="qualification_calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    2019 - 2023
+                                </div>
+                            </div>
+                            <div>
+                                <span class="qualification_rounder"></span>
+                                <span class="qualification_line"></span>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
         </section>
-
         <!--==================== SERVICES ====================-->
         <section class="services section" id="services">
+            <h2 class="section_title">Service</h2>
+            <span class="section_subtitle">What i offer</span>
 
+            <div class="service_container container grid">
+                <!--==================== SERVICES 1 ====================-->
+
+                <div class="services_content">
+                    <div>
+<i class="uil uil-web-grid services_icon"></i>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <!--==================== PORTFOLIO ====================-->
